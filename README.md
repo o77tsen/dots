@@ -3,7 +3,7 @@ my macOS setup
 
 - Wallpaper used: [Evangelion](https://i.imgur.com/2dNwg4L.jpg)
 
-<img src="https://i.imgur.com/4Jdlgvl.png" alt="img" width="800">
+<img src="https://i.imgur.com/9nsCkIE.png" alt="img" width="800">
 
 ### the bar
 <img src="https://i.imgur.com/uIzLiNk.png" alt="img" width="800">
