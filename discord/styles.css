@@ -139,7 +139,7 @@
   --button-destructive-active: #fa4a4a;
 }
 
-/* user panel ui */
+/* user panel ui @o77tsen */
 .panels-3wFtMD {
   height: 0;
 }
@@ -175,7 +175,7 @@
   background-color: var(--background-2);
 }
 
-/* settings list ui */
+/* settings list ui @o77tsen */
 :root .panels-3wFtMD > .container-YkUktl > .flex-2S1XBF {
   position: fixed;
   bottom: 0;
@@ -240,7 +240,7 @@
   margin-right: 4px;
 }
 
-/* servers */
+/* servers @o77tsen */
 .newMessagesBar-1hF-9G, .active-WHsd77 {
   background-color: var(--accent-color) !important;
 }
@@ -311,7 +311,6 @@
 * @version 2.4
 * @donate https://ko-fi.com/nyria
 */
-/* dm ping ui */
 :root .unreadMentionsBar-ZXXoOH .text-2GsXbW {
   display: none;
 }
