@@ -139,13 +139,13 @@
   --button-destructive-active: #fa4a4a;
 }
 
-/* user panel ui @o77tsen */
+/* user panel ui */
 .panels-3wFtMD {
   height: 0;
 }
 
 .withTagAsButton-OsgQ9L, .withTagless-10ooWt {
-    min-width: 210px!important;
+    min-width: 210px !important;
     max-width: 60px;
     position: fixed;
     margin-left: 4px;
@@ -175,7 +175,7 @@
   background-color: var(--background-2);
 }
 
-/* settings list ui @o77tsen */
+/* settings list ui */
 :root .panels-3wFtMD > .container-YkUktl > .flex-2S1XBF {
   position: fixed;
   bottom: 0;
@@ -240,7 +240,27 @@
   margin-right: 4px;
 }
 
-/* servers @o77tsen */
+/* forums */
+.list-3FIpnh {
+  background-color: var(--background-2) !important;
+}
+
+/* recent members list */
+.content-1jQy2l {
+  background-color: var(--background-2) !important;
+}
+
+/* browse channels */
+.pageBody-23bo4p {
+  background-color: var(--background-2) !important;
+}
+
+/* events modal */
+.content-1OG56Q {
+  background-color: var(--background-1) !important;
+}
+
+/* servers */
 .newMessagesBar-1hF-9G, .active-WHsd77 {
   background-color: var(--accent-color) !important;
 }
@@ -303,6 +323,7 @@
 .followButton-1N-GGp {
   background-color: var(--button-accent) !important;
 }
+
 /**
 * @name Comfy
 * @author Nyria#3863
@@ -311,6 +332,7 @@
 * @version 2.4
 * @donate https://ko-fi.com/nyria
 */
+/* dm ping ui */
 :root .unreadMentionsBar-ZXXoOH .text-2GsXbW {
   display: none;
 }
