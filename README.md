@@ -8,9 +8,9 @@ my macOS setup
 ### the bar
 <img src="https://i.imgur.com/uIzLiNk.png" alt="img" width="800">
 
-https://github.com/o77tsen/dots/assets/88957235/4eb59142-e444-421f-8787-e7316fa79306
+https://github.com/o77tsen/dots/assets/88957235/00447b37-3d51-4bdc-a5e6-2daddae46296
 
-https://github.com/o77tsen/dots/assets/88957235/a0856f1b-9ff0-45cd-8bf5-af4abd520441
+https://github.com/o77tsen/dots/assets/88957235/138ea298-3cb5-4256-b018-65a1885e12cd
 
 ## config
 - [sketchybar](https://github.com/FelixKratz/SketchyBar)
