@@ -139,7 +139,7 @@
   --button-destructive-active: #fa4a4a;
 }
 
-/* user panel ui */
+/* user panel ui @o77tsen */
 .panels-3wFtMD {
   height: 0;
 }
@@ -175,7 +175,7 @@
   background-color: var(--background-2);
 }
 
-/* settings list ui */
+/* settings list ui @o77tsen */
 :root .panels-3wFtMD > .container-YkUktl > .flex-2S1XBF {
   position: fixed;
   bottom: 0;
@@ -190,7 +190,7 @@
   background: var(--background-1);
 }
 
-/* server list ui */
+/* server list ui @o77tsen */
 .wrapper-1_HaEi.guilds-2JjMmN {
     height: 402px;
     width: 70px;
