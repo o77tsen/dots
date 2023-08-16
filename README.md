@@ -3,14 +3,14 @@ my macOS setup
 
 - Wallpaper used: [Evangelion](https://i.imgur.com/2dNwg4L.jpg)
 
-<img src="https://i.imgur.com/9nsCkIE.png" alt="img" width="800">
+<img src="https://i.imgur.com/cZzBtSV.png" alt="img" width="800">
 
 ### the bar
 <img src="https://i.imgur.com/uIzLiNk.png" alt="img" width="800">
 
-https://github.com/o77tsen/dots/assets/88957235/4eb59142-e444-421f-8787-e7316fa79306
+https://github.com/o77tsen/dots/assets/88957235/c9920a3b-f541-421f-adf6-8ea715b8d93f
 
-https://github.com/o77tsen/dots/assets/88957235/a0856f1b-9ff0-45cd-8bf5-af4abd520441
+https://github.com/o77tsen/dots/assets/88957235/521ae2ea-a116-4e84-9ed8-2e7f883ee207
 
 ## config
 - [sketchybar](https://github.com/FelixKratz/SketchyBar)
